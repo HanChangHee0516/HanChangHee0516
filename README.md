@@ -1,7 +1,7 @@
 # LINK
 ### 공부일지 <a href="https://github.com/HanChangHee0516/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 1st PERSONAL PROJECT <a href="https://github.com/codingSsakAi/1stProject"><img src="https://img.shields.io/badge/PROJ[코딩싹]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href="https://github.com/HanChangHee0516/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+### 2ed TEAM PROJECT <a href="https://github.com/codingSsakAi/2stProject"><img src="https://img.shields.io/badge/TEAMPRO[코딩싹]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 
  # 📚 SKIL

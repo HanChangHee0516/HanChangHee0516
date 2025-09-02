@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 저는 창희입니다!
+# 👋 안녕하세요!
 
 <div align="center">
 
@@ -25,23 +25,21 @@
 > 📚 **주요 내용**: 머신러닝 알고리즘, 딥러닝 이론, 실습 프로젝트  
 > 🛠️ **활용 기술**: Python, TensorFlow, Scikit-learn
 
-### 🎮 **1st 개인 프로젝트**
-[![1st Project](https://img.shields.io/badge/🏆_코딩싹_개인프로젝트-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codingSsakAi/1stProject)
-> 🚀 **첫 개인 프로젝트로 웹 개발 기초 다지기**  
+### 🎮 **1nd 팀 프로젝트**
+[![1nd Team Project](https://img.shields.io/badge/🤝_코딩싹_팀 프로젝트-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codingSsakAi/1stProject)
+> 🚀 **첫 팀 프로젝트로 웹 개발 기초 다지기**  
 > 💡 **핵심 기능**: 사용자 인터페이스 구현, 데이터 처리  
-> 🛠️ **기술 스택**: HTML, CSS, JavaScript, Bootstrap
+> 🛠️ **기술 스택**: HTML, CSS, JavaScript, Bootstrap, FLASK, ML/DL
 
 ### 👥 **2nd 팀 프로젝트**
-[![2nd Team Project](https://img.shields.io/badge/🤝_팀_협업_프로젝트-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanChangHee0516/2ndProject)
-> 🎯 **팀워크와 협업 능력 향상을 위한 프로젝트**  
-> 🔥 **주요 성과**: Git 협업 워크플로우 마스터, 코드 리뷰 문화  
-> 🛠️ **기술 스택**: Python, Flask/Django, MySQL
+[![2nd Team Project](https://img.shields.io/badge/🤝_코딩싹_팀_프로젝트-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanChangHee0516/2ndProject)
+> 🎯 **RAG,LLM을 활용 할 수 있는 프로그램**  
+> 💡 **핵심 기능**: RAG 시스템, 자연어 처리, 실시간 상담
+> 🛠️ **기술 스택**: Django, SQLITE, PINECONE,OPENAI
 
-### 🤖 **RAG 보험 챗봇** ⭐
+### 🤖 **2nd 팀 프로젝트 배포용 RAG 보험 챗봇** ⭐
 [![RAG Chatbot](https://img.shields.io/badge/🚀_RAG_보험봇_배포-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codingSsakAi/rag-insure-bot.git)
 > 🤖 **AI 기반 보험 상담 챗봇 (배포 완료)**  
-> 🎯 **핵심 기능**: RAG 시스템, 자연어 처리, 실시간 상담  
-> 🛠️ **기술 스택**: Python, FastAPI, TensorFlow, Vector DB
 
 ---
 

@@ -25,7 +25,7 @@
 ## 🗂️ 프로젝트 포트폴리오
 
 ### 📊 **학습 일지** 
-[![공부일지](https://img.shields.io/badge/🔗_AI_학습일지-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanChangHee0516/ai_x)
+[![공부일지](https://img.shields.io/badge/🔗_AI_학습일지-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nubo92/ai_x.git)
 > 🎯 **학습 과정을 체계적으로 기록**  
 > 📚 **주요 내용**: Python 언어, 머신러닝 알고리즘, 딥러닝 이론, 실습 프로젝트  
 > 🛠️ **활용 기술**: Python, TensorFlow, ML/DL

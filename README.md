@@ -37,7 +37,7 @@
 > 🛠️ **기술 스택**: HTML, CSS, JavaScript, Bootstrap, ML/DL
 
 ### 👥 **2nd 팀 프로젝트**
-[![2nd Team Project](https://img.shields.io/badge/🤝_코딩싹_팀_프로젝트-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanChangHee0516/2ndProject)
+[![2nd Team Project](https://img.shields.io/badge/🤝_코딩싹_팀_프로젝트-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codingSsakAi/2stProject.git)
 > 🎯 **RAG_LLM을 활용한 프로그램 만들기**  
 > 🔥 **주요 성과**: RAG 시스템, 자연어 처리, 실시간 상담   
 > 🛠️ **기술 스택**: Django, SQLITE, PINECONE, UPSTAGE
